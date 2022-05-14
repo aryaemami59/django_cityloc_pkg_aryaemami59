@@ -6,13 +6,13 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. automodule:: django_cityloc_pkg
-   :members: aryaemami59
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+.. automodule:: django_cityloc_pkg
+   :members: aryaemami59
 
 
 Indices and tables
